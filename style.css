@@ -78,3 +78,79 @@ body {
     display: flex;
   }
 }
+.navbar.active .nav-links {
+  display: flex;
+}
+.navbar.active .hamburger {
+  display: flex;
+}
+.navbar.active .nav-links li a {
+  color: #ddd;
+}
+
+.navbar.active .nav-links li a:hover {
+  color: white;
+}
+
+
+.navbar.active {
+  background-color: #444;
+}
+.navbar.active .logo {
+  color: #ddd;
+}
+
+.navbar.active .hamburger span {
+  background: #ddd;
+}
+.navbar.active .hamburger:hover span {
+  background: white;
+}
+
+.navbar.active .nav-links li a:hover {
+  color: #fff;
+}
+.navbar.active .nav-links li a {
+  color: #ddd;
+}
+.navbar.active .nav-links li a {
+  transition: color 0.3s;
+}
+
+.navbar.active .nav-links li a:hover {
+  color: white;
+}
+.navbar.active .nav-links li a {
+  color: #ddd;
+}
+.navbar.active .nav-links li a:hover {
+  color: white;
+}
+
+.navbar.active .nav-links li a {
+  color: #ddd;
+}
+.navbar.active .nav-links li a:hover {
+  color: white;
+}
+.navbar.active .nav-links li a {
+  color: #ddd;
+}
+.navbar.active .nav-links li a:hover {
+  color: white;
+}
+.navbar.active .nav-links li a {
+  color: #ddd;
+}
+.navbar.active .nav-links li a:hover {
+  color: white;
+}
+.navbar.active .nav-links li a {
+  color: #ddd;
+}
+.navbar.active .nav-links li a:hover {
+  color: white;
+}
+.navbar.active .nav-links li a {
+  color: #ddd;
+}
